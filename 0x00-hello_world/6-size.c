@@ -1,4 +1,3 @@
-gcc $CFILE
 #include <stdio.h>
 
 /**
