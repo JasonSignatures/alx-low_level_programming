@@ -1,3 +1,4 @@
+#!/bin/bash
 #include "main.h"
 /**
  *_atoi - allow convert a string of numbers into int
